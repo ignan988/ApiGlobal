@@ -1,0 +1,73 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "username": "usuario1",
+      "email": "usuario1@mail.cl",
+      "password": "duoc1234",
+      "rut": "19992897-k",
+      "isactive": true,
+      "eventos": [
+        {
+          "id": "1",
+          "imagen": "https://via.placeholder.com/150",
+          "nombre": "Evento 1",
+          "fecha": "2024-12-01",
+          "lugar": "Santiago",
+          "descripcion": "Descripción del evento 1"
+        }
+      ]
+    },
+    {
+      "id": "7b2d",
+      "username": "marias",
+      "password": "nenebakan98",
+      "email": "sadansa@gmail.com",
+      "rut": "123123123-2",
+      "isactive": true,
+      "eventos": [
+        {
+          "id": "2",
+          "nombre": "Taller de Ajedrez",
+          "fecha": "2024-12-05",
+          "descripcion": "Taller de ajedrez para todos los niveles.",
+          "ubicacion": "Maipú, Santiago",
+          "participantes": [],
+          "activo": true
+        }
+      ]
+    }
+  ],
+  "eventosGlobales": [
+    {
+      "id": "",
+      "nombre": "sesion de abrazos",
+      "fecha": "2024-11-30T15:59:00",
+      "descripcion": "acá se dan abrazos ",
+      "ubicacion": "duoc sede maipú",
+      "participantes": [],
+      "activo": true,
+      "imagen": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.novelty-spain.com%2Fcomo-organizar-un-evento&psig=AOvVaw1ohaAA_kD9wf9GQjReQOBq&ust=1732669964790000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDe--vo-IkDFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": "",
+      "nombre": "lalalala",
+      "fecha": "2024-11-20T22:29:00",
+      "descripcion": "sadsadasd",
+      "ubicacion": "sadasd",
+      "participantes": [],
+      "activo": true,
+      "imagen": ""
+    },
+    {
+      "id": "",
+      "nombre": "dasdasd",
+      "fecha": "2024-11-28T22:31:00",
+      "descripcion": "dasdasd",
+      "ubicacion": "dasdas",
+      "participantes": [],
+      "activo": true,
+      "imagen": ""
+    }
+  ]
+}
